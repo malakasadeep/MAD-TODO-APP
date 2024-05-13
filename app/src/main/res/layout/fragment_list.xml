@@ -10,6 +10,7 @@
     </data>
 
     <androidx.constraintlayout.widget.ConstraintLayout
+        android:background="#DDF8D1"
         android:id="@+id/listLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
